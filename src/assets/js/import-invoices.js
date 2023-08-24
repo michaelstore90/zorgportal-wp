@@ -55,10 +55,10 @@
           {
             $(select).html('')
 
-            // var option = $('<option />')
-            // option.val('')
-            // option.text('')
-            // $(select).append(option)
+            var option = $('<option />')
+            option.val('')
+            option.text('')
+            $(select).append(option)
 
             for ( var key in res.rows[0] ) {
               var option = $('<option />')
