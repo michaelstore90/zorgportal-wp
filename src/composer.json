@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Zorgportal\\": "app"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.21",
+        "zendframework/zendpdf": "^2.0",
+        "yahnis-elsts/plugin-update-checker": "^4.13",
+        "picqer/exact-php-client": "^3.46"
+    }
+}

@@ -1,0 +1,8 @@
+composer.phar
+vendor/
+.env
+index.php
+storage.txt
+composer.lock
+.idea
+.phpunit.result.cache
